@@ -1,0 +1,71 @@
+# ---------------------------------------------------------------------------
+# Maven
+# ---------------------------------------------------------------------------
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# ---------------------------------------------------------------------------
+# Compiled artefacts
+# ---------------------------------------------------------------------------
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+# ---------------------------------------------------------------------------
+# IDEs / editors
+# ---------------------------------------------------------------------------
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+nbproject/
+*.swp
+*~
+
+# ---------------------------------------------------------------------------
+# Operating system
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------------------------------------------------------
+# Logs / runtime data
+# ---------------------------------------------------------------------------
+*.log
+logs/
+*.db
+*.mv.db
+*.trace.db
+/branch/
+
+# ---------------------------------------------------------------------------
+# Local configuration and secrets - never commit real credentials
+# ---------------------------------------------------------------------------
+.env
+*.env
+application-local.yml
+application-local.properties
+application-local.yaml
+secrets/
+*.p12
+*.jks
+*.pem
