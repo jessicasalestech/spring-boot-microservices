@@ -1,5 +1,7 @@
 # Spring Boot Microservices
 
+[![English](https://img.shields.io/badge/English-blue?style=plastic&logo=openbadges&logoColor=white)](README.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-green?style=plastic&logo=openbadges&logoColor=white)](README-pt-BR.md)
+
 [![CI](https://github.com/jessicasalestech/spring-boot-microservices/actions/workflows/ci.yml/badge.svg)](https://github.com/jessicasalestech/spring-boot-microservices/actions/workflows/ci.yml)
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-6DB33F?logo=spring&logoColor=white)
